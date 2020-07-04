@@ -1,0 +1,10 @@
+{
+  "name": "raasta-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Krishna Satya <vadapallikrishna@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gotrue-js": "^0.9.26"
+  }
+}
